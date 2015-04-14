@@ -1,5 +1,8 @@
 BTMemoryModule changes:
 
+Attention: project has benn moved to Github:
+https://github.com/dsplayer/memorymodule
+
 ============================
 new in 0.0.42:
 ============================
